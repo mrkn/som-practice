@@ -1,0 +1,4 @@
+2009-05-07  Kenta Murata  <mrkn@mrkn.jp>
+
+	* first prototype version of 1-dimensional SOM for 2-dimensional
+	vector space.
